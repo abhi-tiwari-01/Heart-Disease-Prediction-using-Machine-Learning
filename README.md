@@ -21,3 +21,7 @@ Accuracy achieved: 95% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
+Commands:
+pip install -r requirements.txt
+streamlit run app.py
+
